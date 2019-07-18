@@ -1,2 +1,2 @@
 # WhatsAppClone-ReactNative
-WhatsApp clone for testing integration with Firebase.
+WhatsApp clone testing integration with Firebase and Redux.
