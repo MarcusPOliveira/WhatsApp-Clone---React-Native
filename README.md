@@ -1,2 +1,2 @@
-# WhatsApp-Clone---React-Native
-Projeto construído com React Native, Firebase e Redux.
+# WhatsAppClone-ReactNative
+WhatsApp clone for testing integration with Firebase.
